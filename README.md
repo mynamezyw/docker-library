@@ -3,7 +3,7 @@
 
 kubernetes 相关 images 同步
 
-# 2018.1.2017
+# 2018.12.06
 
 kubenetes:v1.13.0
 pause:3.1
